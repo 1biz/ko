@@ -72,4 +72,5 @@ siteStartYear = 2024
 
 # [params.experimental]
 # jsDate = true
-# jsDateFormat = "yyyy年MM月dd日"
+jsDateFormat = "yyyy년MM월dd일"
+# jsDateFormat = "yyyy년MM월dd일，cccc"
