@@ -4,7 +4,7 @@ languageLang = "ko"
 title = "한국 언론"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
-theme = "themes"
+theme = "dream"
 
 [params]
 images = ["img/kpress.jpeg"]
