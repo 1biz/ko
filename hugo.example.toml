@@ -1,7 +1,7 @@
-baseurl = "https://example.com"
-defaultContentLanguage = "en"
-languageCode = "en"
-title = "Hugo Theme Dream"
+baseURL = "/"
+defaultContentLanguage = "ko"
+languageCode = "ko"
+title = "한국 언론"
 theme = "dream"
 
 # [services]
@@ -11,7 +11,7 @@ theme = "dream"
 # ID = ""
 
 [params]
-# zenMode = true
+# zenMode = false
 
 lightTheme = "emerald"
 darkTheme = "forest"
@@ -19,10 +19,10 @@ darkTheme = "forest"
 # backgroundImage = "img/global-background.jpg"
 # backgroundImageDark = ""
 
-author = "Dream"
-# description = ""
+author = "Team Korea"
+# description = "진실 사냥꾼"
 # avatar = "img/avatar.png"
-headerTitle = "Hugo Theme Dream"
+headerTitle = "특이한 한국 뉴스 매체"
 # motto = ""
 
 # footerBottomText = ""
@@ -40,7 +40,7 @@ headerTitle = "Hugo Theme Dream"
 
 # email = ""
 
-siteStartYear = 2016
+siteStartYear = 2024
 
 # favicon = "favicon.ico"
 
