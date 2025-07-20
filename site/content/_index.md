@@ -1,8 +1,5 @@
 ---
-title: 홈페이지
-subtitle: 특이한 한국 언론
-image: img/kpress.jpeg
-intro:
-  heading: 한국뉴스프레스
-  text: 특이한 뉴스 매체
+title: 한국뉴스프레스
+# groupLayout: January 2006
 ---
+모든 기사가 타임라인에 표시됩니다.
