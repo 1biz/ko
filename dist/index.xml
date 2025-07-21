@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>한국 언론</title>
+    <link>/</link>
+    <description>Recent content on 한국 언론</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Thu, 23 Jan 2025 18:58:40 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buy Me a Coffee</title>
+      <link>/posts/buy-me-a-coffee/</link>
+      <pubDate>Mon, 03 Jun 2019 14:21:26 +0800</pubDate>
+      
+      <guid>/posts/buy-me-a-coffee/</guid>
+      <description>&lt;p&gt;If you like my works or find them helpful, please consider buying me a cup of coffee ☕️. It inspires me to create and maintain more projects in the future. 🦾&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Advertisements on the site</title>
+      <link>/posts/ads-on-the-site/</link>
+      <pubDate>Thu, 23 Jan 2025 18:58:40 +0800</pubDate>
+      
+      <guid>/posts/ads-on-the-site/</guid>
+      <description>&lt;p&gt;About enabling ads on the site.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo Theme Dream: Post Page Features</title>
+      <link>/posts/dream-post-features/</link>
+      <pubDate>Wed, 28 Aug 2024 11:15:08 +0800</pubDate>
+      
+      <guid>/posts/dream-post-features/</guid>
+      <description>&lt;p&gt;A demo post to show the features of a post page in Hugo Theme Dream.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>知识共享（Creative Commons）</title>
+      <link>/about/cc/</link>
+      <pubDate>Sat, 06 Jul 2024 11:02:28 +0800</pubDate>
+      
+      <guid>/about/cc/</guid>
+      <description>此网站的所有内容都遵循 CC BY-NC-SA 4.0。 All contents of this website are licensed under CC BY-NC-SA 4.0.</description>
+    </item>
+    
+    <item>
+      <title>Build a Chrome Extension with Figwheel Main</title>
+      <link>/posts/build-a-chrome-extension-with-figwheel-main/</link>
+      <pubDate>Tue, 12 Jan 2021 23:54:31 +0800</pubDate>
+      
+      <guid>/posts/build-a-chrome-extension-with-figwheel-main/</guid>
+      <description>&lt;p&gt;Bring a smooth experience to the development of Chrome Extension.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>赞助我（Sponsor Me）</title>
+      <link>/about/sponsor-me/</link>
+      <pubDate>Mon, 11 Nov 2019 01:32:23 +0800</pubDate>
+      
+      <guid>/about/sponsor-me/</guid>
+      <description>如果你喜欢我的作品或者发现它们对你有所帮助，可以考虑给我买一杯咖啡 ☕️。这将激励我在未来创作和维护更多的项目。🦾 👉 请我喝一杯咖啡 If you like my works or</description>
+    </item>
+    
+    <item>
+      <title>我的开源项目（My Open Source Projects）</title>
+      <link>/about/open-source/</link>
+      <pubDate>Mon, 11 Nov 2019 01:31:25 +0800</pubDate>
+      
+      <guid>/about/open-source/</guid>
+      <description>Petal :hibiscus: 豆瓣 FM 桌面版 hugo-theme-dream :seedling: 一个 Hugo 主题，也是当前我的博客所使用的主题 Alfred-Colors-workflow Convert CSS colors between hex, rgb, hsl in Alfred. github-colorful-contributions-graph 改变 GitHub 贡献面板颜色的 Chrome 插件 等等</description>
+    </item>
+    
+    <item>
+      <title>关于我</title>
+      <link>/about/me/</link>
+      <pubDate>Mon, 11 Nov 2019 01:30:24 +0800</pubDate>
+      
+      <guid>/about/me/</guid>
+      <description>Hi，这里是 g1eny0ung 的博客。g1eny0ung（或 g1en）是我在互联网上经常使用的名字。 我是一个热衷于开源的软件工程师，在这里我会记录一些关于技</description>
+    </item>
+    
+  </channel>
+</rss>
