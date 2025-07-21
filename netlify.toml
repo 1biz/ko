@@ -10,7 +10,7 @@
   HUGO_VERSION = "0.125.3"
 
 [context.deploy-preview]
-  command = "yarn build:preview"
+  command = "hugo"
 
 [dev]
   framework = "hugo"
