@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>赞赏 on 한국 언론</title>
+    <link>/tags/%E8%B5%9E%E8%B5%8F/</link>
+    <description>Recent content in 赞赏 on 한국 언론</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Thu, 23 Jan 2025 18:58:40 +0800</lastBuildDate><atom:link href="/tags/%E8%B5%9E%E8%B5%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buy Me a Coffee</title>
+      <link>/posts/buy-me-a-coffee/</link>
+      <pubDate>Mon, 03 Jun 2019 14:21:26 +0800</pubDate>
+      
+      <guid>/posts/buy-me-a-coffee/</guid>
+      <description>&lt;p&gt;If you like my works or find them helpful, please consider buying me a cup of coffee ☕️. It inspires me to create and maintain more projects in the future. 🦾&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Advertisements on the site</title>
+      <link>/posts/ads-on-the-site/</link>
+      <pubDate>Thu, 23 Jan 2025 18:58:40 +0800</pubDate>
+      
+      <guid>/posts/ads-on-the-site/</guid>
+      <description>&lt;p&gt;About enabling ads on the site.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
